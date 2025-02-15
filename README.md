@@ -75,9 +75,3 @@ npm run dev
 ## Estilos
 Se usa **Tailwind CSS** para un diseño moderno, minimalista y responsive.
 
-## Licencia
-Este proyecto está bajo la licencia MIT.
-
----
-✅ **Desarrollado con React y Tailwind CSS**
-
